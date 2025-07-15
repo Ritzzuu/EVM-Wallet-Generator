@@ -26,3 +26,9 @@ cd EVM-Wallet-Generator
 ```bash
 pip install -r requirements.txt
 ```
+# Run
+Once the installation is complete, you can run the script to start generating your wallet. Run the main index.py script from the project root directory.
+```bash
+python index.py
+```
+The output will display a list of generated wallet addresses and private keys.
