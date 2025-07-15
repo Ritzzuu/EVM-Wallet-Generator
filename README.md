@@ -15,4 +15,14 @@ Make sure you have the following software installed on your system:
 # Installation
 Follow these steps to install the project
 1. Clone this repository to your local machine using git clone
-   
+```bash
+https://github.com/Ritzzuu/EVM-Wallet-Generator.git
+```
+2. Go to the project directory
+```bash
+cd EVM-Wallet-Generator
+```
+3. Install the required dependencies using pip install with the requirements.txt file.
+```bash
+pip install -r requirements.txt
+```
