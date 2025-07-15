@@ -1,4 +1,4 @@
-# EVM-Wallet-Generator
+# EVM Wallet Generate bot
 The EVM Wallet Generator project is a Python-based utility designed to generate public-private key pairs compatible with the Ethereum Virtual Machine (EVM) network. Its goal is to provide a fast and automated way to create new wallet addresses and their corresponding private keys. This application solves the problem of creating large numbers of wallets, which may be required for various purposes such as testing dApps, blockchain research, or other development needs. The wallet creation process is performed locally and deterministically, ensuring the security of the private key during the generation process. The primary users of this project are developers, researchers, or anyone who needs the ability to efficiently generate multiple EVM wallets without manual interaction with conventional wallet interfaces.
 
 # Features
